@@ -14,3 +14,8 @@
 - [信息熵](https://github.com/MorvanLi/sklearnTutorial/tree/main/decision_tree)
 - [基尼系数](https://github.com/MorvanLi/sklearnTutorial/tree/main/decision_tree)
 - [混淆矩阵](https://github.com/MorvanLi/sklearnTutorial/blob/main/decision_tree/confusion_matrix.ipynb)
+
+
+
+# 线性回归
+- 损失函数
